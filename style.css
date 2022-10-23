@@ -1,0 +1,11 @@
+/* onde ficou registro autor */
+nav {
+    text-align: center;
+    background-color: rgb(193, 255, 255);
+}
+
+/* onde ficou o contador e os botões*/
+div {
+    text-align: center;
+    top: 40px;
+}
